@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<fattura_elettronica>
+  <I.V.A>99999999999</I.V.A>
+  <data> 
+    <giorno>12_07</giorno>
+    <anno>2023</anno>
+  </data>
+  <luogo>
+    <nazione>Italia</nazione>
+    <provincia>MI</provincia>
+    <CAP>20019</CAP>
+    <citta>Milano</citta>
+    <indirizzo>Via Spluga</indirizzo>
+    <numero_civico>41</numero_civico>
+  </luogo>
+  <sede>
+    <amministratore>
+      <nome>Aldo</nome>
+      <cognome>Rampello</cognome>
+    </amministratore>
+    <codice>ITMI005</codice>
+  </sede>
+  <cliente>
+    <nome>Mario</nome>
+    <cognome>Rossi</cognome>
+    <cf></cf>
+  </cliente>
+  <agente>
+    <nome>Susanna</nome>
+    <cognome>Bianchi</cognome>
+    <cf></cf>
+  </agente>
+  <divisa>EUR</divisa>
+  <causale>
+   <titolo>Servizio_catering</titolo>
+   <servizio>3435</servizio>
+  </causale>
+  <importo> 
+    <dovuto>230.00
+    </dovuto>
+    <resto>00.00
+    </resto>
+  </importo>
+  <documento>
+    <codice>TD01</codice>
+    <modalita>elettronico</modalita>
+  </documento>
+  <comunicazioni>
+    <recensioni></recensioni>
+    <avvertenze></avvertenze>
+  </comunicazioni>
+  <email> 
+    <gmail>cateringprivati@gmail.com</gmail>
+    <hotmail></hotmail>
+  </email>
+  <fax>390639967700@efaxsend.com</fax>
+</fattura_elettronica>

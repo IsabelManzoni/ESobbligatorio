@@ -1,0 +1,29 @@
+{
+  "nome": "Isabel",
+  "cognome": "Manzoni",
+  "codiceFiscale": "MNZSBL04M55C523S",
+  "sesso": "Femmina"
+  "eta": 18, 
+  "sposata": false, 
+  "indirizzo": {
+    "via": "Via Spluga 41",
+    "citta": "Olginate",
+    "provincia": "LC",
+    "codicePostale": "23854"
+  },
+  "recapiti":{
+    "email":["isabel.manzoni@liceomanzonilecco.net",
+      "isabel.manzonishoshin@gmail.com"], 
+  "telefono":[{
+    "tipo": "ufficio",
+    "numero": "0341286452"
+  }, {
+    "tipo": "cellulare",
+    "numero": "3343422824" 
+  }]
+  },
+  "titolo": "licenza media"
+  "scuola": "Liceo Linguistico A.Manzoni Lecco"
+  
+  
+}
